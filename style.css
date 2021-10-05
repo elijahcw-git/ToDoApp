@@ -1,0 +1,28 @@
+h1 {
+
+    text-align: center;
+    color:midnightblue;
+
+
+}
+
+body {
+
+    background: lightblue;
+    text-align: center;
+
+}
+
+li {
+
+
+    margin-left: 225px;
+    margin-right: 225px;
+    background-color: white;
+    list-style-type: none;
+
+}
+
+form {
+    color:royalblue
+}
